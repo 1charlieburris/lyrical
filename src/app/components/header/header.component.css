@@ -1,0 +1,12 @@
+section {
+  text-align: center; /* center component */
+}
+
+h3 {
+  color: white;
+}
+
+.title {
+  font-size: 3rem;
+  color: greenyellow;
+}
