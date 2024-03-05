@@ -3,3 +3,8 @@
 body {
   background-color: black;
 }
+
+section {
+  text-align: center; /* center component */
+  background-color: lightyellow;
+}
