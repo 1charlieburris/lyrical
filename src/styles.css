@@ -1,10 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+/* 
+Color palette:
+Background: Blue horizon - #4b6584
+Text: Flirtatious - #fed330
+ */
 
 body {
-  background-color: black;
+  background-color: #4b6584;
 }
 
 section {
   text-align: center; /* center component */
-  background-color: lightyellow;
+  color: #fed330;
 }
